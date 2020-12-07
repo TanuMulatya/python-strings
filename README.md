@@ -1,2 +1,2 @@
 # python-strings
-Strings in PYTHON
+Learning Python
